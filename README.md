@@ -29,12 +29,7 @@ In order to build it for Nintendo Switch, you need to dowload [Homebrodot](https
 
 
 You need to put the following files in your SD card:
- / (root)
- |
- -> switch/
-   |
-   |-> triplane-turmoil
-          |
+ / (root) /switch/
           |-> autumn_webfishing_main.nro
           |-> autumn_webfishing_main.pck
 
