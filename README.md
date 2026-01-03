@@ -34,6 +34,7 @@ You need to put the following files in your SD card:
  / (root)/switch/
  
    -> autumn_webfishing_main.nro
+   
    -> autumn_webfishing_main.pck
 
 Copyrights
